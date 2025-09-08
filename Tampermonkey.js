@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3
 // @description  访问被屏蔽的网站时显示警告并重定向
-// @author       tanz
+// @author       Tanz
 // @match        *://*/*
 // @connect      *
 // @grant        none
